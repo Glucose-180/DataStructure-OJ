@@ -28,7 +28,7 @@ int main()
 	return 0;
 }
 
-// Sort H[0] to H[N-1], from less to great
+// Sort D[0] to D[N-1], from less to great
 unsigned int insertionsort_list(data_t* const D, const unsigned int N)
 {
 	unsigned int ymr = 0U;
